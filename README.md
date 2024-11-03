@@ -32,8 +32,4 @@ Here's a complete example of using Active Erroring in a Python script.
 ![Demo](https://i.ibb.co/61nDwVh/demo.png)
 
 
-
-
-## License
-
-This is a private project.
+P.S. The source code will be added soon. 
